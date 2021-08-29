@@ -1,5 +1,6 @@
 def main():
     # Escribe el código adecuado para completar el programa
+    #tarea
     peso = float(input("Peso en kg: "))
     altura = float(input("Altura en m: "))
 

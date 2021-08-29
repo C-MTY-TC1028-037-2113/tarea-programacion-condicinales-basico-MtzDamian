@@ -2,6 +2,7 @@
 
 def main():
     # Escribe el código adecuado para completar el programa
+    #
     n1 = int(input("Ingresa el primer número: "))
     n2 = int(input("Ingresa el segundo número: "))
     n3 = int(input("Ingresa el tercer número: "))
